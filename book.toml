@@ -1,0 +1,6 @@
+[book]
+authors = ["bistcuite"]
+language = "fa"
+multilingual = false
+src = "src"
+title = "یادگیری ماشین"
